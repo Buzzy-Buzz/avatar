@@ -191,4 +191,4 @@ Avatar = {
 
 // Call setOptions to generate the default CSS. This will be replaced if the user calls setOptions in their own code
 
-Avatar.setOptions({});
+Avatar.setOptions({generateCSS:false});
